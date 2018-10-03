@@ -1,0 +1,74 @@
+{
+	"spawn": {
+		"x": 45,
+		"y": 26
+	},
+	"objects": [{
+		"id": 0,
+		"type": 1,
+		"x": 120,
+		"y": 0,
+		"width": 30,
+		"height": 120,
+		"color": {
+			"r": 153,
+			"g": 255,
+			"b": 255,
+			"a": 0
+		}
+	}, {
+		"id": 1,
+		"type": 1,
+		"x": 0,
+		"y": 100,
+		"width": 120,
+		"height": 20,
+		"color": {
+			"r": 153,
+			"g": 255,
+			"b": 255,
+			"a": 0
+		}
+	}, {
+		"id": 2,
+		"type": 2,
+		"isBad": false,
+		"x": 360,
+		"y": 260,
+		"width": 50,
+		"height": 50
+	}, {
+		"id": 3,
+		"type": 4,
+		"doors": [0, 1],
+		"x": 5,
+		"y": 35,
+		"width": 40,
+		"height": 40,
+		"count": 1,
+		"relaxationTime": 1000,
+		"color": {
+			"r": 153,
+			"g": 255,
+			"b": 255,
+			"a": 0
+		}
+	}, {
+		"id": 4,
+		"type": 0,
+		"x": 80,
+		"y": 130,
+		"textHeight": 20,
+		"isCentered": false,
+		"text": "(helllllloooooooo on cursors.io hack sevrer)"
+	}, {
+		"id": 5,
+		"type": 0,
+		"x": 100,
+		"y": 140,
+		"textHeight": 20,
+		"isCentered": false,
+		"text": "(click blue button)"
+	}],
+	"lvlname": "A1"
+}

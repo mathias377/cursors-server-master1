@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <title>Level code parser</title>
+        <style>
+            textarea {
+                min-width: 100%;
+                max-width: 100%;
+            }
+        </style>
+    </head>
+    <body>
+        <p>Level name:<input id='levelNameInput' type="text"></p>
+        <p>Paste C++ code here:</p>
+        <textarea id='inputArea'></textarea>
+        <button id='parseButton'>Parse</button>
+        <button id='clearButton'>Clear</button>
+        <p>Result JSON code:</p>
+        <textarea id='outputArea' readOnly='true'></textarea>
+        <button id='downloadButton'>Download</button>
+        <script src="scripts/parser.js"></script>
+    </body>
+</html>
