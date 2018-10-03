@@ -12,7 +12,7 @@
         "maxLength": 13
     },
     "server": {
-        "host": "0.0.0.0",
+        "host": "127.0.0.1",
         "port": 9004,
         "maxPlayers": 900,
         "maxClientsPerIp": 900,
