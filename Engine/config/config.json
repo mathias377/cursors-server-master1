@@ -9,10 +9,10 @@
             "2": "C01",
             "3": "C02"
         },
-        "maxLength": 13
+        "maxLength": 40
     },
     "server": {
-        "host": "localhost",
+        "host": "cursorsserver.herokuapp.com",
         "port": 9004,
         "maxPlayers": 900,
         "maxClientsPerIp": 900,
