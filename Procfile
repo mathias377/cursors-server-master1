@@ -1,2 +1,2 @@
-worker: node /GameLogic/startup.js
+worker: node GameLogic/startup.js
 install: npm install
